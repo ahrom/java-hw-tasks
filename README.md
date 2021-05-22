@@ -1,5 +1,6 @@
-# Java Tasks from GeekBrains (Java. Level 1)
-
+## Java Tasks from GeekBrains (Java. Level 1)
+### 👨🏽‍💻 Author: Ivan Ahromenko 
+### List of lessons
 * [Lesson 1](#lesson-1)
 * [Lesson 2](#lesson-2)
 
