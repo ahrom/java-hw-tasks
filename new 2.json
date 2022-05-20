@@ -1,0 +1,34 @@
+{
+    "items": [{
+            "bubble": {
+                "text": "",
+                "markdown": true
+            }
+        }, {
+            "card": {
+                "type": "p2p_transfer_result",
+                "title": "Привет Серега",
+                "addressee": "Серега тест",
+                "transfer_amount": "",
+                "style": "success",
+                "icon_url": "ф",
+                "action_button": {
+                    "text": "Подробности заявки",
+                    "action": {
+                        "deep_link": "ф"
+                    }
+                }
+            }
+        }
+    ],
+    "suggestions": {
+        "buttons": []
+    },
+    "finished": true,
+    "pronounceText": "",
+    "auto_listening": true,
+    "debug_info": {
+        "intent": null,
+        "debug_info_key": "06f64c18-72ab-43b1-8d90-b7c0e31f75c7"
+    }
+}
